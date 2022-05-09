@@ -2,11 +2,7 @@
 
 ## Your Turn
 
-Please copy any instructions from your slides here
-
 ## Solutions
-
-Please put a link to a gist with code to solve the Your Turn exercise
 
 ## Learn More
 
