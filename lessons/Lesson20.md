@@ -10,5 +10,4 @@
 
 ## Learn More
 
-Blog post about
-[modern text features in R](https://www.tidyverse.org/blog/2021/02/modern-text-features/#wheres-the-catch)
+Blog post about [modern text features in R](https://www.tidyverse.org/blog/2021/02/modern-text-features/#wheres-the-catch)
